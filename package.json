@@ -114,7 +114,7 @@
     "url-loader": "^0.5.8",
     "webpack": "^2.4.1",
     "webpack-bundle-analyzer": "^2.4.0",
-    "webpack-dev-middleware": "^1.10.2",
+    "webpack-dev-middleware": "^7.4.5",
     "webpack-hot-middleware": "^2.18.0",
     "write-file-webpack-plugin": "^4.0.2"
   },
